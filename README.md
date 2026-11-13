@@ -6,18 +6,18 @@ Transformo tarefas manuais e repetitivas em automações, dashboards e aplicaç�
 
 🌐 **Portfólio:** [helio-carmo.github.io/heliocarmo.com.br](https://helio-carmo.github.io/heliocarmo.com.br/)
 
-### 🚀 Projetos no ar
+### 🚀 Projetos em uso
 
 | Projeto | O que faz | Stack |
 |---|---|---|
 | 🐝 [**Abelhando**](https://abelhando.online) | Caderno de campo para criadores de abelhas nativas: caixas, iscas, QR Code por colônia e mapa de revisões | Next.js · TypeScript · Supabase · Vercel |
-| 🎓 [**TreinaLink**](https://treinalink.com) | SaaS de treinamentos online com quiz, link único sem login e certificado automático | Web app · Stripe |
+| 🎓 [**TreinaLink**](https://treinalink.com) | SaaS de treinamentos online com quiz, link único sem login e certificado automático | PHP · MySQL · Stripe |
 | 🎤 [**CantaJunto**](https://cantajunto.online) | Karaokê para festas: pedidos pelo celular via QR Code, fila automática e modo batalha | PHP · JavaScript · SQL |
+| ⏱️ **PontoSync** | Controle de ponto pelo celular ou por reconhecimento facial, com inconsistências, banco de horas e horas extras automáticos. Em uso por uma empresa | Next.js · TypeScript · Supabase · face-api |
 
 ### 🧪 Outros projetos
 
 - 📦 **NexaFlow:** protótipo de SaaS para otimização de inventário (Next.js, FastAPI, Firebase).
-- 📱 **PontoSync:** app mobile em React Native/Expo para registro de turnos e horas.
 - 🤖 **Automação desktop (RPA):** ferramentas em Python que executam rotinas de teclado e cliques na tela.
 - 💬 **Integrações de WhatsApp:** envio automático de notificações com Meta Business API, Twilio e Baileys.
 - 📊 **Dashboards:** painéis em Power BI e Looker Studio para acompanhar indicadores.
