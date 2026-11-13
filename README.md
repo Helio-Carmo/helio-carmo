@@ -22,6 +22,6 @@ Profissional focado em criar soluções tecnológicas que resolvem problemas rea
 - 📊 **Dashboards de Monitoramento:** Painéis em Power BI e Looker Studio para análise de dados e KPIs.
 
 ### 📫 Como me encontrar
-- **E-mail:** helio.h.carmo@gmail.com
-- **Site:** 
-- **LinkedIn:** [Insira seu link do LinkedIn aqui]
+- **E-mail:** [helio.h.carmo@gmail.com](mailto:helio.h.carmo@gmail.com)
+- **Site:** [helio-carmo.github.io/heliocarmo.com.br](https://helio-carmo.github.io/heliocarmo.com.br/)
+- **LinkedIn:** [linkedin.com/in/helio-henrique-carmo](https://www.linkedin.com/in/helio-henrique-carmo-84966495/)
